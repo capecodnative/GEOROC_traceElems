@@ -1,0 +1,1 @@
+This is a small repository built to compile GEOROC data from https://georoc.eu for atmoshperic and marine geochemists who would prefer a consoidated library of sub-aerial and sub-marine lithogenic compositional ratios.
